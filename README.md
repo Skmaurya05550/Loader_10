@@ -1,5 +1,8 @@
 # CSS Loader Animation
 
+![17290861991975299386608049174381](https://github.com/user-attachments/assets/e35d6d39-6c26-4482-9b0f-0ae2d02c5587)
+
+
 This project demonstrates a minimal CSS loader animation using pure CSS and HTML. The loader consists of rotating elements that create a smooth and continuous animation effect.
 
 ## Features
